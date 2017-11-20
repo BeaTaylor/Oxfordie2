@@ -6,7 +6,8 @@ a {
 }
 .container {
 	text-align: center;
-	background: rgba(0,0,0,0.5); img src='oxfordskyline.jpg';
+	background: rgba(0,0,0,0.5); 
+	background-image: img src='oxfordskyline.jpg';
 	background-size: cover;
 	color: white
 }
