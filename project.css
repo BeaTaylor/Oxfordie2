@@ -1,3 +1,9 @@
+body {
+	font-family: helvetica, sans-serif;
+}
+a {
+	color: white;
+}
 .container {
 	text-align: center;
 	background: img src='Oxfordie2.github.io/oxford3.jpeg';
