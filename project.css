@@ -6,7 +6,7 @@ a {
 }
 .container {
 	text-align: center;
-	background: img src='Oxfordie2.github.io/oxford3.jpeg';
+	background: rgba(0,0,0,0.5);
 	background-size: cover;
 	color: white
 }
